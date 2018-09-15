@@ -1,1 +1,0 @@
-# stepik_yandex_cpp
